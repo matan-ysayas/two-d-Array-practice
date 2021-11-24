@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TwoDArray\TwoDArray\bin\Debug\net6.0\TwoDArray.exe
+C:\Users\user\source\repos\TwoDArray\TwoDArray\bin\Debug\net6.0\TwoDArray.deps.json
+C:\Users\user\source\repos\TwoDArray\TwoDArray\bin\Debug\net6.0\TwoDArray.runtimeconfig.json
+C:\Users\user\source\repos\TwoDArray\TwoDArray\bin\Debug\net6.0\TwoDArray.dll
+C:\Users\user\source\repos\TwoDArray\TwoDArray\bin\Debug\net6.0\ref\TwoDArray.dll
+C:\Users\user\source\repos\TwoDArray\TwoDArray\bin\Debug\net6.0\TwoDArray.pdb
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.AssemblyInfo.cs
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.dll
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\ref\TwoDArray.dll
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.pdb
+C:\Users\user\source\repos\TwoDArray\TwoDArray\obj\Debug\net6.0\TwoDArray.genruntimeconfig.cache
